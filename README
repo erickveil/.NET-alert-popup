@@ -1,0 +1,8 @@
+C#/.NET Pop Up Example
+
+This is a Windows Forms example of a pop-up alert, like the one you get
+with JavaScript. 
+
+This can be used to act as a confirmation dialog with minimal modification, as
+well.
+
