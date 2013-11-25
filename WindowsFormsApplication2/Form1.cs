@@ -16,16 +16,6 @@ namespace WindowsFormsApplication2
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            fileDg.ShowDialog();
-        }
-
-        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             DialogResult box = MessageBox.Show("This is the alerted message.");
